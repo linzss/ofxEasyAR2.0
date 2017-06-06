@@ -1,0 +1,16 @@
+{
+  "images" :
+  [
+    {
+      "image" : "sightplus/argame00.jpg",
+	  "size" : [8.56, 5.4],
+      "name" : "argame"
+    },
+    {
+      "image" : "idback.jpg",
+      "name" : "idback",
+      "size" : [8.56, 5.4],
+      "uid" : "uid-string"
+    }
+  ]
+}
